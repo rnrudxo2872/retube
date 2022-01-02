@@ -1,0 +1,11 @@
+{
+    "files.exclude": {
+        "node_modules": true
+    },
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#cc4f46",
+        "titleBar.inactiveBackground": "#b62d23",
+        "titleBar.activeForeground": "#fff",
+        "titleBar.inactiveForeground": "#6b4242"
+    }
+}
